@@ -25,8 +25,8 @@ El notebook está diseñado para ejecutarse en **Google Colab** con un entorno d
 
 ## Datasets
 
-* **Entrenamiento:** [MaSTr1325](https://www.vicos.si/resources/mast_v2/) - Para la detección de obstáculos en USVs.
-* **Prueba de Generalización:** [LARS](https://lars-dataset.com/index.html) - Un dataset con un dominio visual diferente (ríos y lagos).
+* **Entrenamiento:** [MaSTr1325](https://www.vicos.si/resources/mastr1325/) - Para la detección de obstáculos en USVs.
+* **Prueba de Generalización:** [LARS](https://lojzezust.github.io/lars-dataset/) - Un dataset con un dominio visual diferente (ríos y lagos).
 
 ## Autor y Agradecimientos
 
