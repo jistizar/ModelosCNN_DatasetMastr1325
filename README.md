@@ -9,7 +9,7 @@ El notebook `DeeplabvsUnet_MASTR1325.ipynb` implementa y compara dos arquitectur
 
 ## Hallazgos Principales
 
-[cite_start]El estudio concluye que el modelo **U-Net** fue superior para este caso de uso específico, tanto en precisión como en velocidad.
+El estudio concluye que el modelo **U-Net** fue superior para este caso de uso específico, tanto en precisión como en velocidad.
 
 * **Precisión (MeanIoU):** La U-Net simple (**0.8553**) superó al DeepLabV3+ (**0.8261**).
 * **Velocidad (Tiempo Real):** En una prueba simulada con *Batch Size 1*, la U-Net (22.14 FPS) fue **3.4 veces más rápida** que la DeepLabV3+ (6.46 FPS).
@@ -20,7 +20,7 @@ El notebook `DeeplabvsUnet_MASTR1325.ipynb` implementa y compara dos arquitectur
 
 El notebook está diseñado para ejecutarse en **Google Colab** con un entorno de GPU (probado en NVIDIA Tesla T4).
 
-* **Framework:** TensorFlow (v2.19.0) y Keras[cite: 76].
+* **Framework:** TensorFlow (v2.19.0) y Keras.
 * **Bibliotecas Clave:** NumPy , Scikit-learn (para métricas), Matplotlib (para visualización).
 
 ## Datasets
